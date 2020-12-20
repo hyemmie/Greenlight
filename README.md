@@ -15,10 +15,10 @@
 <a href='http://hyemmie.pythonanywhere.com/'>
 
 #### 전체 페이지
-<img source='img/page.gif' width='500px'>
+<img src='img/page.gif' width='500px'>
 
 #### 점수별 횡단보도 분류
-<img source='img/dots.gif' width='500px'>
+<img src='img/dots.gif' width='500px'>
 
 #### 각 횡단보도의 연령별 보행 적합도 차트
-<img source='img/info.gif' width='500px'>
+<img src='img/info.gif' width='500px'>
